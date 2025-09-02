@@ -1,0 +1,8 @@
+Intel Image Classification
+Link - https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
+Import from Kagglehub-
+
+import kagglehub
+path = kagglehub.dataset_download("puneet6060/intel-image-classification")
+print("Path to dataset files:", path)

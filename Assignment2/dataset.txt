@@ -1,0 +1,8 @@
+owlxiaoliu/four-binary-classification-datasets-of-faces
+Link - https://www.kaggle.com/datasets/owlxiaoliu/four-binary-classification-datasets-of-faces
+
+Import from Kagglehub-
+
+import kagglehub
+path = kagglehub.dataset_download("owlxiaoliu/four-binary-classification-datasets-of-faces")
+print("Path to dataset files:", path)
